@@ -5,9 +5,11 @@ I'll update my code periodically and make some manuals on my GitHub project webs
 
 Wish you have fun!
 
-This project tries not to include the third part lib, but Eigen is an efficient lib, which could save our time to template the Matrix lib. You can easily configure this lib by searching the tutorial on the internet.
+
 
 --Dependence-- 
+
+This project tries not to include the third part lib, but Eigen is an efficient lib, which could save our time to template the Matrix lib. You can easily configure this lib by searching the tutorial on the internet.
 
 the website of Eigen is below
 https://eigen.tuxfamily.org/index.php?title=Main_Page
