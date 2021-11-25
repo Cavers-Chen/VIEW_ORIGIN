@@ -9,7 +9,7 @@ Wish you have fun!
 
 --Dependence-- 
 
--1.Eigen
+1.Eigen
 
 This project tries not to include the third part lib, but Eigen is an efficient lib, which could save our time to template the Matrix lib. You can easily configure this lib by searching the tutorial on the internet.
 
