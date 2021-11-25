@@ -14,3 +14,9 @@ This project tries not to include the third part lib, but Eigen is an efficient 
 the website of Eigen is below
 
 https://eigen.tuxfamily.org/index.php?title=Main_Page
+
+Also, considering that if we use .pmm file or Windows Api to represent our result, it would be time-consuming when our code processes the results(we can't be visual to results) and a little difficult to learn the new stuff. To focus only on our engine, I choose the easyx lib to convert our pixel data to image immediately.
+
+the website of easyx is below
+
+https://easyx.cn/
