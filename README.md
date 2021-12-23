@@ -16,7 +16,7 @@ https://eigen.tuxfamily.org/index.php?title=Main_Page
 ```
 - Easyx
 
-Also, considering if we use .pmm file or Windows Api to represent our result, it would be time-consuming when our code processes the results(the results can't be directly seen) and a little difficult to learn the new stuff. To focus only on our engine, I choose the easyx lib to convert our pixel data to image immediately. 
+Also, considering if we use .pmm file or Windows Api to represent our result, it would be time-consuming when our code processes the results(the results can't be directly seen),and it's a little difficult to learn new stuff. To focus only on our engine, I choose the easyx lib to convert our pixel data to image immediately. 
 
 the website of easyx is below
 ```
