@@ -1,3 +1,5 @@
+I put the original code into my private repo, so if you want to join me, just contact with me in the ISSUES PART.
+
 # VIEW_ORIGIN
 ## Introduction
 Hey! This is my CG project and I want to make a tiny engine, which contains abilities to render a scene and simulate some specific physical movements.
